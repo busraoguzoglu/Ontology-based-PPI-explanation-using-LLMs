@@ -1,0 +1,1052 @@
+term	type
+CTD domain phosphorylation of RNA polymerase II	GO_0070816
+DNA damage induced protein phosphorylation	GO_0006975
+I-kappaB phosphorylation	GO_0007252
+IKB phosphorylation	GO_0007252
+JUN phosphorylation	GO_0007258
+actin phosphorylation	GO_0031289
+adp ribosylation	MI_0557
+aminoacylation	MI_1143
+aminoacylation reaction	MI_1143
+ampylation	MI_1148
+ampylation reaction	MI_1148
+bacterial conjugation	INO_0000098
+carbohydrate phosphorylation	GO_0046835
+cell-cell interaction	INO_0000027
+cell-environment interaction	INO_0000063
+co-expression	INO_0000231
+co-regulation	INO_0000089
+common mediator SMAD protein phosphorylation	GO_0007182
+common-partner SMAD protein phosphorylation	GO_0007182
+conjugation reaction	MI_0195
+de-ADP-ribosylation reaction	MI_1310
+deamination	MI_0985
+deamination reaction	MI_0985
+decarboxylation	MI_1140
+defarnesylation	MI_0198
+defarnesylation reaction	MI_0198
+degeranylation	MI_0200
+degeranylation reaction	MI_0200
+deglycosylation	MI_0558
+deglycosylation reaction	MI_0558
+demyristoylation	MI_0201
+demyristoylation reaction	MI_0201
+deoxyribose 5-phosphate phosphorylation	GO_0006019
+depalmitoylation	MI_0202
+depalmitoylation reaction	MI_0202
+deregulation	INO_0000234
+diphtamidation reaction	MI_1027
+diphthamidation	MI_1027
+disulfide bond	MI_0408
+dna cleavage	MI_0572
+enzymatic reaction	MI_0414
+epistasis	MI_0797
+epistatic	MI_0797
+epistatic genetic interaction	MI_0797
+fusing	INO_0000106
+fuse	INO_0000106
+gene expression down-regulation	INO_0000095
+gene expression regulation	INO_0000044
+gene expression up-regulation	INO_0000094
+gene-cell interaction	INO_0000025
+gene-enviroment interaction	INO_0000030
+gene-protein interaction	INO_0000312
+genetic interaction	MI_0208
+glucose 1-phosphate phosphorylation	GO_0006009
+histone phosphorylation	GO_0016572
+hydrogen binding 	INO_0000099
+inhibitory G-protein coupled receptor phosphorylation	GO_0002030
+isomerase reaction	MI_1250
+lipid addition	MI_0211
+lipid cleavage	MI_0212
+lipid cleavage reaction	MI_0212
+lipid phosphorylation	GO_0046834
+maximal epistasis	MI_1273
+methylmalonyl-CoA isomerase reaction	MI_1251
+minimal epistasis	MI_1274
+mono-ADP-ribosylhydrolase reaction	MI_1310
+mrna cleavage	MI_0571
+ncl acid cleavage	MI_0910
+neutral epistasis	MI_1275
+nucleic acid cleavage	MI_0910
+nucleic acid strand elongation reaction	MI_0986
+nucleoside triphosphatase reaction	MI_0881
+nucleotide phosphorylation	GO_0046939
+opposing epistasis	MI_1285
+organic acid phosphorylation	GO_0031388
+oxidative phosphorylation	GO_0006119
+oxidoreductase activity electron transfer reaction	MI_0945
+p_patetheinylation	MI_0971
+pathway-restricted SMAD protein phosphorylation	GO_0060389
+peptidyl-arginine phosphorylation	GO_0018109
+peptidyl-aspartic acid phosphorylation	GO_0018217
+peptidyl-cysteine phosphorylation	GO_0018218
+peptidyl-histidine phosphorylation	GO_0018106
+peptidyl-serine phosphorylation	GO_0018105
+peptidyl-threonine phosphorylation	GO_0018107
+peptidyl-tyrosine phosphorylation	GO_0018108
+phosphatidylinositol phosphorylation	GO_0046854
+phospholipase reaction	MI_1146
+phosphopantetheinylation	MI_0971
+phosphorylation of RNA polymerase II C-terminal domain	GO_0070816
+photosynthetic phosphorylation	GO_0009777
+physical association	MI_0915
+positive epistasis	MI_1272
+proline isomerization reaction	MI_1237
+promoting	INO_0000117
+protein amino acid autophosphorylation	GO_0046777
+protein amino acid myristoylation	GO_0018377
+protein amino acid phosphorylation	GO_0006468
+protein amino acid phosphorylation involved in cellular protein breakdown	GO_1902002
+protein autophosphorylation	GO_0046777
+protein cleavage	MI_0570
+protein complex assembly	GO_0006461
+protein complex formation	GO_0006461
+protein heterooligomer assembly	GO_0051291
+protein heterooligomer biosynthesis	GO_0051291
+protein heterooligomer biosynthetic process	GO_0051291
+protein heterooligomer formation	GO_0051291
+protein heterooligomerization	GO_0051291
+protein heterotetramer assembly	GO_0051290
+protein heterotetramer biosynthesis	GO_0051290
+protein heterotetramer biosynthetic process	GO_0051290
+protein heterotetramer formation	GO_0051290
+protein heterotetramerization	GO_0051290
+protein heterotrimer assembly	GO_0070208
+protein heterotrimer biosynthesis	GO_0070208
+protein heterotrimer biosynthetic process	GO_0070208
+protein heterotrimer formation 	GO_0070208
+protein heterotrimerization	GO_0070208
+protein hexamer assembly	GO_0034214
+protein hexamer biosynthesis	GO_0034214
+protein hexamer biosynthetic process	GO_0034214
+protein hexamer formation	GO_0034214
+protein hexamerization	GO_0034214
+protein homooligomer assembly	GO_0051260
+protein homooligomer biosynthesis	GO_0051260
+protein homooligomer biosynthetic process	GO_0051260
+protein homooligomer formation	GO_0051260
+protein homooligomerization	GO_0051260
+protein homotetramer assembly	GO_0051289
+protein homotetramer biosynthesis	GO_0051289
+protein homotetramer biosynthetic process	GO_0051289
+protein homotetramer formation	GO_0051289
+protein homotetramerization	GO_0051289
+protein homotrimer assembly	GO_0070207
+protein homotrimer biosynthesis	GO_0070207
+protein homotrimer biosynthetic process	GO_0070207
+protein homotrimer formation	GO_0070207
+protein homotrimerization	GO_0070207
+protein oligomer assembly	GO_0051259
+protein oligomer biosynthesis	GO_0051259
+protein oligomer biosynthetic process	GO_0051259
+protein oligomer formation	GO_0051259
+protein oligomerization	GO_0051259
+protein phosphorylation	GO_0006468
+protein phosphorylation involved in cellular protein catabolic process	GO_1902002
+protein tetramer assembly	GO_0051262
+protein tetramer biosynthesis	GO_0051262
+protein tetramer biosynthetic process	GO_0051262
+protein tetramer formation	GO_0051262
+protein tetramerization	GO_0051262
+protein trimer assembly	GO_0070206
+protein trimer biosynthesis	GO_0070206
+protein trimer biosynthetic process	GO_0070206
+protein trimer formation	GO_0070206
+protein trimerization	GO_0070206
+qualitative epistasis	MI_1277
+quantitative epistasis	MI_1284
+redox reaction	MI_0945
+regulation of translational initiation by eIF2 alpha phosphorylation	GO_0010998
+respiratory-chain phosphorylation	GO_0006119
+rna cleavage	MI_0902
+signal transduction by phosphorylation	GO_0023014
+strand elongation	MI_0986
+sulfurtransfer	MI_1327
+sulfurtransfer reaction	MI_1327
+transglutamination	MI_0556
+transglutamination reaction	MI_0556
+triphosphatase react	MI_0881
+umpylation	MI_1230
+uridylation	MI_1230
+uridylation reaction	MI_1230
+accompanied	MI_0914
+accompanies	MI_0914
+accompany	MI_0914
+accompanying	MI_0914
+activated protein	INO_0000026
+activates protein	INO_0000026
+activating protein	INO_0000026
+activating protein by mutant	INO_0000028
+affect	INO_0000157
+affected	INO_0000157
+affecting	INO_0000157
+affects	INO_0000157
+alter	INO_0000157
+altered	INO_0000157
+altering	INO_0000157
+alters	INO_0000157
+associate	MI_0914
+associated	MI_0914
+associates	MI_0914
+associating	MI_0914
+associations	MI_0914
+change	INO_0000157
+changed	INO_0000157
+changes	INO_0000157
+changing	INO_0000157
+conversion	INO_0000058
+convert	INO_0000058
+converted	INO_0000058
+converting	INO_0000058
+converts	INO_0000058
+cross-immunoprecipitate	INO_0000064
+cross-immunoprecipitated	INO_0000064
+cross-immunoprecipitates	INO_0000064
+cross-immunoprecipitating	INO_0000064
+cross-immunoprecipitation	INO_0000064
+cross-immunoprecipitation interaction	INO_0000064
+crossimmunoprecipitate	INO_0000064
+crossimmunoprecipitated	INO_0000064
+crossimmunoprecipitates	INO_0000064
+crossimmunoprecipitating	INO_0000064
+crossimmunoprecipitation	INO_0000064
+depend	INO_0000157
+depended	INO_0000157
+depending	INO_0000157
+depends	INO_0000157
+dependent	INO_0000157
+derivation	INO_0000058
+derived	INO_0000058
+derives	INO_0000058
+direct	INO_0000157
+directed	INO_0000157
+directing	INO_0000157
+directs	INO_0000157
+drive	INO_0000157
+driven	INO_0000157
+drives	INO_0000157
+driving	INO_0000157
+effect	INO_0000157
+effected	INO_0000157
+effecting	INO_0000157
+effects	INO_0000157
+encodes	INO_0000045
+encoding	INO_0000045
+express	INO_0000102
+expressed	INO_0000102
+expresses	INO_0000102
+expressing	INO_0000102
+expression	INO_0000102
+expressions	INO_0000102
+fusing	INO_0000106
+gene fuse	INO_0000106
+gene expression	INO_0000102
+gene transcription	INO_0000173
+hyper-expression	INO_0000114
+hyperactivate	INO_0000114
+hyperactivated	INO_0000114
+hyperactivates	INO_0000114
+hyperactivation	INO_0000114
+hyperexpression	INO_0000114
+immuno-precipitate	INO_0000116
+immuno-precipitated	INO_0000116
+immuno-precipitates	INO_0000116
+immuno-precipitating	INO_0000116
+immuno-precipitation	INO_0000116
+immunoprecipitate	INO_0000116
+immunoprecipitated	INO_0000116
+immunoprecipitates	INO_0000116
+immunoprecipitating	INO_0000116
+immunoprecipitation	INO_0000116
+immunopreticipate	INO_0000116
+immunopreticipated	INO_0000116
+immunopreticipates	INO_0000116
+immunopreticipating	INO_0000116
+impact	INO_0000157
+impacted	INO_0000157
+impacting	INO_0000157
+impacts	INO_0000157
+influence	INO_0000157
+influenced	INO_0000157
+influences	INO_0000157
+influencing	INO_0000157
+mediate	INO_0000157
+mediated	INO_0000157
+mediates	INO_0000157
+mediating	INO_0000157
+migrated	INO_0000176
+migrates migrating	INO_0000176
+migration	INO_0000176
+mobilisation	INO_0000176
+mobilise	INO_0000176
+mobilised	INO_0000176
+mobilises	INO_0000176
+mobilising	INO_0000176
+mobilization	INO_0000176
+mobilize	INO_0000176
+mobilized	INO_0000176
+mobilizes	INO_0000176
+mobilizing	INO_0000176
+modified	INO_0000157
+modifies	INO_0000157
+modify	INO_0000157
+modifying	INO_0000157
+modulate	INO_0000157
+modulated	INO_0000157
+modulates	INO_0000157
+modulating	INO_0000157
+modulation	INO_0000157
+mutant activated protein	INO_0000028
+mutant activates protein	INO_0000028
+neutralise	INO_0000140
+neutralised	INO_0000140
+neutralises	INO_0000140
+neutralising	INO_0000140
+neutralize	INO_0000140
+neutralized	INO_0000140
+neutralizes	INO_0000140
+neutralizing	INO_0000140
+overexpression	INO_0000114
+positive regulations	INO_0000117
+positively regulate	INO_0000117
+positively regulated	INO_0000117
+positively regulating	INO_0000117
+precede	INO_0000148
+preceded	INO_0000148
+precedence	INO_0000148
+precedes	INO_0000148
+preceding	INO_0000148
+promoting	INO_0000117
+protein activated	INO_0000026
+protein activated by mutant	INO_0000028
+protein activation	INO_0000026
+protein activation by mutant	INO_0000028
+protein production	INO_0000045
+protein translation	INO_0000045
+regulate	INO_0000157
+regulated	INO_0000157
+regulates	INO_0000157
+regulating	INO_0000157
+regulation	INO_0000157
+regulator	INO_0000157
+require	INO_0000157
+required	INO_0000157
+requires	INO_0000157
+requiring	INO_0000157
+respond	INO_0000157
+responded	INO_0000157
+responding	INO_0000157
+responds	INO_0000157
+responsive	INO_0000157
+target	INO_0000157
+targeted	INO_0000157
+targeting	INO_0000157
+targets	INO_0000157
+transcribe	INO_0000173
+transcribed	INO_0000173
+transcribes	INO_0000173
+transcribing	INO_0000173
+transcription	INO_0000173
+translated	INO_0000045
+translating	INO_0000045
+translation	INO_0000045
+transloated	INO_0000176
+translocates	INO_0000176
+translocating	INO_0000176
+translocation	INO_0000176
+up-regulation	INO_0000007
+up-regulation of secretion	INO_0000022
+abolish	INO_0000097
+abolished	INO_0000097
+abolishes	INO_0000097
+abolishing	INO_0000097
+abrogation	INO_0000097
+accessory regulation	INO_0000103
+acetylatable	MI_0192
+acetylate	MI_0192
+acetylated	MI_0192
+acetylates	MI_0192
+acetylating	MI_0192
+acetylation	MI_0192
+acetylation reaction	MI_0192
+acetylations	MI_0192
+acetylator	MI_0192
+act	INO_0000002
+acted	INO_0000002
+acting	INO_0000002
+activate	INO_0000024
+activated	INO_0000024
+activates	INO_0000024
+activating	INO_0000024
+activation	INO_0000024
+activator	INO_0000024
+activators	INO_0000024
+activity	INO_0000024
+acts	INO_0000002
+adhere	MI_0407
+adhered	MI_0407
+adheres	MI_0407
+adhering	MI_0407
+adp ribosylation reaction	MI_0557
+amidate	MI_0193
+amidated	MI_0193
+amidates	MI_0193
+amidating	MI_0193
+amidation	MI_0193
+amidation reaction	MI_0193
+antagonise	INO_0000029
+antagonised	INO_0000029
+antagonises	INO_0000029
+antagonising	INO_0000029
+antagonism	INO_0000029
+antagonist	INO_0000029
+antagonists	INO_0000029
+antagonize	INO_0000029
+antagonized	INO_0000029
+antagonizes	INO_0000029
+antagonizing	INO_0000029
+association	MI_0914
+attach	MI_0407
+attached	MI_0407
+attaches	MI_0407
+attachment	MI_0407
+attenuate	INO_0000033
+attenuated	INO_0000033
+attenuates	INO_0000033
+attenuating	INO_0000033
+attenuation	INO_0000033
+augment	INO_0000120
+augmented	INO_0000120
+augmenting	INO_0000120
+augments	INO_0000120
+autophosphorylate	INO_0000035
+autophosphorylated	INO_0000035
+autophosphorylates	INO_0000035
+autophosphorylating	INO_0000035
+autophosphorylation	INO_0000035
+bind	MI_0407
+binding	MI_0407
+binds	MI_0407
+biochemical degradation	INO_0000076
+block	INO_0000124
+blocked	INO_0000124
+blocking	INO_0000124
+blocks	INO_0000124
+bound	MI_0407
+breakdown	MI_0194
+carboxylases	MI_1139
+carboxylate	MI_1139
+carboxylated	MI_1139
+carboxylates	MI_1139
+carboxylating	MI_1139
+carboxylation	MI_1139
+carboxylation reaction	MI_1139
+cause	INO_0000086
+caused	INO_0000086
+causes	INO_0000086
+causing	INO_0000086
+cleavable	MI_0194
+cleavage	MI_0194
+cleavage reaction	MI_0194
+cleavages	MI_0194
+cleave	MI_0194
+cleaved	MI_0194
+cleaves	MI_0194
+clove	MI_0194
+co-immunoprecipitate	INO_0000048
+co-immunoprecipitated	INO_0000048
+co-immunoprecipitates	INO_0000048
+co-immunoprecipitating	INO_0000048
+co-immunoprecipitation	INO_0000048
+co-immunopreticipate	INO_0000048
+co-immunopreticipated	INO_0000048
+co-immunopreticipates	INO_0000048
+co-immunopreticipating	INO_0000048
+co-localisation	MI_0403
+co-localise	MI_0403
+co-localised	MI_0403
+co-localization	MI_0403
+co-localize	MI_0403
+co-localized	MI_0403
+co-precipitate	INO_0000060
+co-precipitated	INO_0000060
+co-precipitates	INO_0000060
+co-precipitating	INO_0000060
+co-precipitation	INO_0000060
+co-preticipate	INO_0000060
+co-preticipated	INO_0000060
+co-preticipates	INO_0000060
+co-preticipating	INO_0000060
+coimmunoprecipitate	INO_0000048
+coimmunoprecipitated	INO_0000048
+coimmunoprecipitates	INO_0000048
+coimmunoprecipitating	INO_0000048
+coimmunoprecipitation	INO_0000048
+coimmunopreticipate	INO_0000048
+coimmunopreticipated	INO_0000048
+coimmunopreticipates	INO_0000048
+coimmunopreticipating	INO_0000048
+colocalisation	MI_0403
+colocalise	MI_0403
+colocalised	MI_0403
+colocalization	MI_0403
+colocalize	MI_0403
+colocalized	MI_0403
+compete	INO_0000050
+competed	INO_0000050
+competes	INO_0000050
+competing	INO_0000050
+competition	INO_0000050
+conjugate	MI_0195
+conjugated	MI_0195
+conjugates	MI_0195
+conjugating	MI_0195
+conjugation	MI_0195
+conjugations	MI_0195
+contribute	INO_0000002
+contributed	INO_0000002
+contributes	INO_0000002
+contributing	INO_0000002
+control	INO_0000057
+controled	INO_0000057
+controling	INO_0000057
+controlled	INO_0000057
+controlling	INO_0000057
+controls	INO_0000057
+cooperate	INO_0000059
+cooperated	INO_0000059
+cooperates	INO_0000059
+cooperating	INO_0000059
+cooperation	INO_0000059
+coprecipitate	INO_0000060
+coprecipitated	INO_0000060
+coprecipitates	INO_0000060
+coprecipitating	INO_0000060
+coprecipitation	INO_0000060
+copreticipate	INO_0000060
+copreticipated	INO_0000060
+copreticipates	INO_0000060
+copreticipating	INO_0000060
+correlate	INO_0000061
+correlated	INO_0000061
+correlating	INO_0000061
+correlation	INO_0000061
+costimulate	INO_0000062
+costimulated	INO_0000062
+costimulating	INO_0000062
+costimulation	INO_0000062
+covalent binding	MI_0195
+covalently binds	MI_0195
+covalently bound	MI_0195
+cripple	INO_0000118
+crippled	INO_0000118
+cripples	INO_0000118
+crippling	INO_0000118
+cross-link	MI_0407
+cross-linkage	MI_0407
+cross-linkages	MI_0407
+cross-linked	MI_0407
+cross-linking	MI_0407
+cross-links	MI_0407
+crosslink	MI_0407
+crosslinkage	MI_0407
+crosslinkages	MI_0407
+crosslinked	MI_0407
+crosslinking	MI_0407
+crosslinks	MI_0407
+crosstalk	MI_0407
+crosstalked	MI_0407
+crosstalking	MI_0407
+deacetylate	MI_0197
+deacetylated	MI_0197
+deacetylates	MI_0197
+deacetylating	MI_0197
+deacetylation	MI_0197
+deacetylation reaction	MI_0197
+decarboxylate	MI_1140
+decarboxylated	MI_1140
+decarboxylates	MI_1140
+decarboxylating	MI_1140
+decarboxylation reaction	MI_1140
+decarboxylmethylate	MI_1140
+decarboxylmethylated	MI_1140
+decarboxylmethylates	MI_1140
+decarboxylmethylating	MI_1140
+decarboxylmethylation	MI_1140
+declination	INO_0000073
+declines	INO_0000073
+declining	INO_0000073
+deconjugate	MI_0194
+deconjugated	MI_0194
+deconjugates	MI_0194
+deconjugating	MI_0194
+deconjugation	MI_0194
+deconjugations	MI_0194
+decrease	INO_0000073
+decreased	INO_0000073
+decreases	INO_0000073
+decreasing	INO_0000073
+deformylate	MI_0199
+deformylated	MI_0199
+deformylates	MI_0199
+deformylating	MI_0199
+deformylation	MI_0199
+deformylation reaction	MI_0199
+degradation	INO_0000076
+degradations	INO_0000076
+degrade	INO_0000076
+degraded	INO_0000076
+degrades	INO_0000076
+degrading	INO_0000076
+demethylate	MI_0871
+demethylated	MI_0871
+demethylates	MI_0871
+demethylating	MI_0871
+demethylation	MI_0871
+demethylation reaction	MI_0871
+deneddylate	MI_0569
+deneddylated	MI_0569
+deneddylates	MI_0569
+deneddylating	MI_0569
+deneddylation	MI_0569
+deneddylation reaction	MI_0569
+dephosphorylate	MI_0203
+dephosphorylated	MI_0203
+dephosphorylates	MI_0203
+dephosphorylating	MI_0203
+dephosphorylation	MI_0203
+dephosphorylation reaction	MI_0203
+dephosphorylations	MI_0203
+depress	INO_0000093
+depressed	INO_0000093
+depresses	INO_0000093
+depressing	INO_0000093
+destabilization	INO_0000084
+destabilize	INO_0000084
+destabilized	INO_0000084
+destabilizes	INO_0000084
+destabilizing	INO_0000084
+desumoylate	MI_0568
+desumoylated	MI_0568
+desumoylates	MI_0568
+desumoylating	MI_0568
+desumoylation	MI_0568
+desumoylation reaction	MI_0568
+determine	INO_0000086
+determined	INO_0000086
+determines	INO_0000086
+determining	INO_0000086
+deubiquitinate	MI_0204
+deubiquitinated	MI_0204
+deubiquitinates	MI_0204
+deubiquitinating	MI_0204
+deubiquitination	MI_0204
+deubiquitination reaction	MI_0204
+dimerize	INO_0000088
+dimerized	INO_0000088
+dimerizes	INO_0000088
+dimerizing	INO_0000088
+diminish	INO_0000073
+diminished	INO_0000073
+diminishes	INO_0000073
+diminishing	INO_0000073
+direct interaction	MI_0407
+disrupt	INO_0000091
+disrupted	INO_0000091
+disrupting	INO_0000091
+disruption	INO_0000091
+disrupts	INO_0000091
+dissociate	INO_0000092
+dissociated	INO_0000092
+dissociating	INO_0000092
+dissociation	INO_0000092
+dominant regulation	INO_0000086
+down-regulate	INO_0000093
+down-regulated	INO_0000093
+down-regulates	INO_0000093
+down-regulating	INO_0000093
+down-regulation	INO_0000093
+down-regulations	INO_0000093
+downmodulation	INO_0000093
+downregulate	INO_0000093
+downregulated	INO_0000093
+downregulates	INO_0000093
+downregulating	INO_0000093
+downregulation	INO_0000093
+downregulations	INO_0000093
+elavating	INO_0000120
+elevate	INO_0000120
+elevated	INO_0000120
+elevates	INO_0000120
+elevating	INO_0000120
+eliminate	INO_0000097
+eliminated	INO_0000097
+eliminates	INO_0000097
+eliminating	INO_0000097
+elimination	INO_0000097
+engagement	INO_0000002
+engagements	INO_0000002
+engages	INO_0000002
+engaging	INO_0000002
+enhance	INO_0000120
+enhanced	INO_0000120
+enhancement	INO_0000120
+enhances	INO_0000120
+enhancing	INO_0000120
+facilitate	INO_0000103
+facilitates	INO_0000103
+facilitating	INO_0000103
+faciliteted	INO_0000103
+farnesylate	MI_0206
+farnesylated	MI_0206
+farnesylates	MI_0206
+farnesylating	MI_0206
+farnesylation	MI_0206
+farnesylation reaction	MI_0206
+formylate	MI_0207
+formylated	MI_0207
+formylates	MI_0207
+formylating	MI_0207
+formylation	MI_0207
+formylation reaction	MI_0207
+fused	INO_0000106
+fuses	INO_0000106
+gene fusion	INO_0000106
+genetic transduction	INO_0000174
+geranylgeranylate	MI_0209
+geranylgeranylated	MI_0209
+geranylgeranylates	MI_0209
+geranylgeranylating	MI_0209
+geranylgeranylation	MI_0209
+geranylgeranylation reaction	MI_0209
+glucosylate	MI_0559
+glucosylated	MI_0559
+glucosylates	MI_0559
+glucosylating	MI_0559
+glucosylation	MI_0559
+glucosylations	MI_0559
+glycosylate	MI_0559
+glycosylated	MI_0559
+glycosylates	MI_0559
+glycosylating	MI_0559
+glycosylation	MI_0559
+glycosylation reaction	MI_0559
+glycosylations	MI_0559
+govern	INO_0000086
+governed	INO_0000086
+governing	INO_0000086
+governs	INO_0000086
+help	INO_0000103
+helped	INO_0000103
+helps	INO_0000103
+heterodimerize	INO_0000111
+heterodimerized	INO_0000111
+heterodimerizes	INO_0000111
+heterodimerizing	INO_0000111
+homodimerize	INO_0000112
+homodimerized	INO_0000112
+homodimerizes	INO_0000112
+homodimerizing	INO_0000112
+hydroxylate	MI_0210
+hydroxylated	MI_0210
+hydroxylates	MI_0210
+hydroxylating	MI_0210
+hydroxylation	MI_0210
+hydroxylation reaction	MI_0210
+hyperphosphorylate	INO_0000115
+hyperphosphorylated	INO_0000115
+hyperphosphorylates	INO_0000115
+hyperphosphorylation	INO_0000115
+impair	INO_0000118
+impaired	INO_0000118
+impairing	INO_0000118
+impairment	INO_0000118
+impairs	INO_0000118
+inactivate	INO_0000119
+inactivated	INO_0000119
+inactivates	INO_0000119
+inactivating	INO_0000119
+inactivation	INO_0000119
+increase	INO_0000120
+increased	INO_0000120
+increases	INO_0000120
+increasing	INO_0000120
+induce	INO_0000122
+induced	INO_0000122
+induced the production	INO_0000096
+induces	INO_0000122
+induces the production	INO_0000096
+inducing	INO_0000122
+induction	INO_0000122
+induction of production	INO_0000096
+induction of the production	INO_0000096
+inhibit	INO_0000124
+inhibited	INO_0000124
+inhibiting	INO_0000124
+inhibition	INO_0000124
+inhibitor	INO_0000124
+inhibitors	INO_0000124
+inhibits	INO_0000124
+initiate	INO_0000122
+initiated	INO_0000122
+initiates	INO_0000122
+initiating	INO_0000122
+interact	INO_0000002
+interacted	INO_0000002
+interacting	INO_0000002
+interaction	INO_0000002
+interactor	INO_0000002
+interactors	INO_0000002
+interacts	INO_0000002
+interfere	INO_0000126
+interfered	INO_0000126
+interference	INO_0000126
+interferes	INO_0000126
+interfering	INO_0000126
+involve	INO_0000002
+involved	INO_0000002
+involves	INO_0000002
+involving	INO_0000002
+lead	INO_0000086
+leading	INO_0000086
+leads	INO_0000086
+led	INO_0000086
+ligand	MI_0407
+ligands	MI_0407
+ligate	MI_0407
+ligated	MI_0407
+ligates	MI_0407
+ligating	MI_0407
+ligation	MI_0407
+limit	INO_0000073
+limited	INO_0000073
+limiting	INO_0000073
+limits	INO_0000073
+link	MI_0407
+linked	MI_0407
+linking	MI_0407
+links	MI_0407
+methylate	MI_0213
+methylated	MI_0213
+methylates	MI_0213
+methylating	MI_0213
+methylation	MI_0213
+methylation reaction	MI_0213
+myristoylate	GO_0018377
+myristoylated	GO_0018377
+myristoylates	GO_0018377
+myristoylating	GO_0018377
+myristoylation	GO_0018377
+neddylate	MI_0567
+neddylated	MI_0567
+neddylates	MI_0567
+neddylating	MI_0567
+neddylation	MI_0567
+neddylation reaction	MI_0567
+negative regulation	INO_0000068
+negative regulator	INO_0000068
+negative regulators	INO_0000068
+neutralization	INO_0000140
+obstruction	INO_0000126
+oxidate	INO_0000142
+oxidated	INO_0000142
+oxidates	INO_0000142
+oxidating	INO_0000142
+oxidation	INO_0000142
+oxidise	INO_0000142
+oxidised	INO_0000142
+oxidises	INO_0000142
+oxidising	INO_0000142
+oxidize	INO_0000142
+oxidized	INO_0000142
+oxidizes	INO_0000142
+oxidizing	INO_0000142
+palmitoylate	MI_0216
+palmitoylated	MI_0216
+palmitoylates	MI_0216
+palmitoylating	MI_0216
+palmitoylation	MI_0216
+palmitoylation reaction	MI_0216
+participates	INO_0000002
+plays a role	INO_0000002
+perturb	INO_0000126
+perturbed	INO_0000126
+perturbing	INO_0000126
+perturbs	INO_0000126
+phosphoryates	GO_0016310
+phosphorylate	GO_0016310
+phosphorylated	GO_0016310
+phosphorylates	GO_0016310
+phosphorylating	GO_0016310
+phosphorylation	GO_0016310
+phosphorylations	GO_0016310
+phosphotransfer	MI_0844
+phosphotransfer reaction	MI_0844
+phosphotransfered	MI_0844
+phosphotransfering	MI_0844
+phosphotransfers	MI_0844
+positive regulation	INO_0000117
+prevent	INO_0000149
+prevented	INO_0000149
+preventing	INO_0000149
+prevention	INO_0000149
+prevents	INO_0000149
+promote	INO_0000117
+promoted	INO_0000117
+promotes	INO_0000117
+protein dimerization	INO_0000088
+protein heterodimerization	INO_0000111
+protein homodimerization	INO_0000112
+protein myristoylation	GO_0018377
+raise	INO_0000120
+raised	INO_0000120
+raises	INO_0000120
+raising	INO_0000120
+reactivate	INO_0000153
+reactivated	INO_0000153
+reactivates	INO_0000153
+reactivating	INO_0000153
+reactivation	INO_0000153
+recruit	INO_0000155
+recruite	INO_0000155
+recruited	INO_0000155
+recruites	INO_0000155
+recruiting	INO_0000155
+recruitment	INO_0000155
+recruits	INO_0000155
+reduce	INO_0000073
+reduced	INO_0000073
+reduces	INO_0000073
+reducing	INO_0000073
+repress	INO_0000093
+repressed	INO_0000093
+represses	INO_0000093
+repressing	INO_0000093
+repression	INO_0000093
+repressor	INO_0000093
+repressors	INO_0000093
+ribosylate	MI_0557
+ribosylated	MI_0557
+ribosylates	MI_0557
+ribosylating	MI_0557
+ribosylation	MI_0557
+sever	INO_0000118
+severed	INO_0000118
+severs	INO_0000118
+stabilization	INO_0000165
+stabilize	INO_0000165
+stabilized	INO_0000165
+stabilizes	INO_0000165
+stabilizing	INO_0000165
+stimulate	INO_0000122
+stimulated	INO_0000122
+stimulation	INO_0000122
+stimulating	INO_0000122
+sumoylate	MI_0566
+sumoylated	MI_0566
+sumoylates	MI_0566
+sumoylating	MI_0566
+sumoylation	MI_0566
+sumoylation reaction	MI_0566
+suppress	INO_0000093
+suppressed	INO_0000093
+suppresses	INO_0000093
+suppressing	INO_0000093
+suppression	INO_0000093
+suppressor	INO_0000093
+synergise	INO_0000169
+synergised	INO_0000169
+synergises	INO_0000169
+synergising	INO_0000169
+synergization	INO_0000169
+synergize	INO_0000169
+synergized	INO_0000169
+synergizes	INO_0000169
+synergizing	INO_0000169
+terminate	INO_0000171
+terminated	INO_0000171
+terminates	INO_0000171
+terminating	INO_0000171
+termination	INO_0000171
+trans-activate	INO_0000172
+trans-activated	INO_0000172
+trans-activates	INO_0000172
+trans-activating	INO_0000172
+trans-activation	INO_0000172
+trans-activator	INO_0000172
+trans-activators	INO_0000172
+transactivate	INO_0000172
+transactivated	INO_0000172
+transactivates	INO_0000172
+transactivating	INO_0000172
+transactivation	INO_0000172
+transactivator	INO_0000172
+transactivators	INO_0000172
+transduce	INO_0000174
+transduced	INO_0000174
+transducer	INO_0000174
+transducers	INO_0000174
+transduces	INO_0000174
+transducing	INO_0000174
+transduction	INO_0000174
+trigger	INO_0000122
+triggered	INO_0000122
+triggering	INO_0000122
+triggerring	INO_0000122
+triggers	INO_0000122
+tyrosine-phosphorylated	INO_0000178
+tyrosine-phosphorylation	INO_0000178
+ubiquitin	MI_0220
+ubiquitinate	MI_0220
+ubiquitinated	MI_0220
+ubiquitinates	MI_0220
+ubiquitinating	MI_0220
+ubiquitination	MI_0220
+ubiquitination reaction	MI_0220
+ubiquitinylation	MI_0220
+ubiquitylated	MI_0220
+ubiquitylates	MI_0220
+ubiquitylation	MI_0220
+up-regulate	INO_0000117
+up-regulated	INO_0000117
+up-regulating	INO_0000117
+up-regulations	INO_0000117
+upregulate	INO_0000117
+upregulated	INO_0000117
+upregulating	INO_0000117
+upregulations	INO_0000117
+essential	INO_T000001
+high concentration	INO_T000002
+low concentration	INO_T000003
+include	INO_T000004
+including	INO_T000004
+includes	INO_T000004
+included	INO_T000004
+inclusion	INO_T000004
+level	INO_T000005
+localization	INO_T000006
+localize	INO_T000006
+localizes	INO_T000006
+localized	INO_T000006
+presence	INO_T000007
+promoter	INO_T000008
+promoters	INO_T000008
+recognized	INO_T000009
+recognize	INO_T000009
+recognizes	INO_T000009
+recognizing	INO_T000009
+regulon	INO_T000010
+regulons	INO_T000010
+responsible	INO_T000011
+reverse	INO_T000012
+reversed	INO_T000012
+reversing	INO_T000012
+member of	INO_T000013
+members of	INO_T000013
+relying on	INO_T000014
+rely on	INO_T000014
+relies on	INO_T000014
+relied on	INO_T000014
+via	INO_T000015
+through	INO_T000015
