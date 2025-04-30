@@ -7,7 +7,7 @@ Before running token_wise_metrics.py, get the responses generated with the testi
 Fill the "Predicted" column in the excel file given as "finetuned_13b_chat.xlsx"  ("13b" indicates the Llama-2-13b-chat model, change the file name according to your finetuned model)
 
 
-** Models Tested ** 
+## Models Tested 
 
 - Llama2 13b : Cannot run on MPS due to lack of bitsandbytes support (llama2_finetuning_mps.py)
     To be tested on Google Colab with quantization
