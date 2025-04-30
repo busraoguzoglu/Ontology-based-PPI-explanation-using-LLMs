@@ -15,3 +15,4 @@ Fill the "Predicted" column in the excel file given as "finetuned_13b_chat.xlsx"
 - Mistral 7b: Testing on MPS without quantization (mistral7b_finetuning_mps.py)
 - Llama3: TODO
 - Falcon 7b: TODO
+- Qwen: TODO
