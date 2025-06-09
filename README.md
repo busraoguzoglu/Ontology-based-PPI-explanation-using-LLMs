@@ -4,8 +4,8 @@ Ontology-based protein-protein interaction explanation using large language mode
 
 ## Models Fine-tuned
 
-- Llama2 13b: done
-- Llama3 8b : done
+- Llama2 13b: done -> llama2_finetuning_ppi.ipynb
+- Llama3 8b : done -> llama3.1_finetuning_ppi.ipynb
 - Llama4: TODO
 - Mistral 7b: TODO
 - Falcon 7b: TODO
