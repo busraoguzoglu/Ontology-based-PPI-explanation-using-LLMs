@@ -9,3 +9,8 @@ Ontology-based protein-protein interaction explanation using large language mode
 - Llama4: script ready, not able to run due to insufficient disk space -> llama4_finetuning_ppi.ipynb
 - Mistral 7b: done -> Fine tuned model: "mistralai/Mistral-7B-Instruct-v0.2" -> mistral_finetuning_ppi.ipynb
 - Qwen 2.5: done -> Fine tuned model: "Qwen/Qwen2.5-7B-Instruct-1M" -> qwen_finetuning_ppi.ipynb
+
+
+01.09.2025 Update: Scripts Updated with Better Evaluation. New Scripts:
+
+- Llama3.1 8b: llama3-finetuning-v2.ipynb
