@@ -1,0 +1,43 @@
+[
+  {
+    "ppi_index": 0,
+    "sentence": "alpha-catenin inhibits beta-catenin signaling by preventing formation of a beta-catenin*T-cell factor*DNA complex.",
+    "protein1": "T-cell factor",
+    "protein2": "alpha-catenin",
+    "protein1_span": [
+      [
+        88,
+        101
+      ]
+    ],
+    "protein2_span": [
+      [
+        0,
+        13
+      ]
+    ],
+    "entity1_id": "BioInfer.d0.s0.e0",
+    "entity2_id": "BioInfer.d0.s0.e1",
+    "relation_id": "BioInfer.d0.s0.i0"
+  },
+  {
+    "ppi_index": 1,
+    "sentence": "alpha-catenin inhibits beta-catenin signaling by preventing formation of a beta-catenin*T-cell factor*DNA complex.",
+    "protein1": "T-cell factor",
+    "protein2": "beta-catenin",
+    "protein1_span": [
+      [
+        88,
+        101
+      ]
+    ],
+    "protein2_span": [
+      [
+        23,
+        35
+      ]
+    ],
+    "entity1_id": "BioInfer.d0.s0.e0",
+    "entity2_id": "BioInfer.d0.s0.e2",
+    "relation_id": "BioInfer.d0.s0.i1"
+  },
